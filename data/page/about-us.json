@@ -2,13 +2,13 @@
     {
       "title": "About Us",
       "description": "Our mission is to empower creators with the finest audio equipment, meticulously curated to meet the rigorous demands of modern production. To us, delivering \"the best\" means offering products that consistently provide superior sound fidelity, unwavering performance, and seamless reliability—so you can focus entirely on what matters most: creating your art.",
-      "image": "/images/about-us/about_us_1.png",
+      "image": "/dolphin-sound/images/about-us/about_us_1.png",
       "imagePosition": "left"
     },
     {
       "title": "Where Quality Meets Creativity",
       "description": "We believe exceptional work begins with dependable tools, which is why each piece of gear we offer is chosen with precision and purpose. By investing in carefully selected equipment, you gain a stable foundation of quality that allows you to confidently share your unique voice and story with the world.",
-      "image": "/images/about-us/about_us_2.jpg",
+      "image": "/dolphin-sound/images/about-us/about_us_2.jpg",
       "imagePosition": "right"
     }
   ]

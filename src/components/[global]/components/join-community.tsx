@@ -7,7 +7,7 @@ const JoinCommunitySection = () => {
       <section className="relative w-full h-[500px] overflow-hidden">
         {/* Background Image */}
         <Image
-          src="/images/community/join_community_banner.png"
+          src="/dolphin-sound/images/community/join_community_banner.png"
           alt="Community Background"
           fill
           className="object-cover"

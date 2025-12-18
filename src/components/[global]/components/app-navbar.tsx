@@ -32,7 +32,7 @@ const AppNavbar = () => {
         {/* Logo */}
         <Link href="/home">
           <Image
-            src="/images/assets/logo.png"
+            src="/dolphin-sound/images/assets/logo.png"
             alt="Logo Dolphin Sound"
             width={90}
             height={90}

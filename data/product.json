@@ -9,14 +9,14 @@
     ],
     "price": 390000,
     "category": "Headphone",
-    "image": "/images/product/DS-60.jpg",
+    "image": "/dolphin-sound/images/product/DS-60.jpg",
     "video_review_link": [
       "https://www.youtube.com/watch?v=lACYc7d8N3Y&pp=ygULcmV2aWV3IGRzNjA%3D",
       "https://www.youtube.com/shorts/zFP2B4NwC-w",
       "https://www.youtube.com/shorts/-_l5bhsrKBs"
     ],
     "url_page": "/product?id_product=1",
-    "url_product_images": "/images/product/ds-60",
+    "url_product_images": "/dolphin-sound/images/product/ds-60",
     "spesification": [
       "Speaker driver : 40mm",
       "Sensitivity : 98±3dB",
@@ -44,7 +44,7 @@
     ],
     "price": 530000,
     "category": "Headphone",
-    "image": "/images/product/DS-70.png",
+    "image": "/dolphin-sound/images/product/DS-70.png",
     "video_review_link": [
       "https://youtu.be/KZLy3sCsXGA",
       "https://www.youtube.com/watch?v=QqLImzx6P5g&pp=ygULcmV2aWV3IGRzNjDSBwkJsgkBhyohjO8%3D",
@@ -52,7 +52,7 @@
       "https://www.youtube.com/watch?v=tkIMvmphh64&pp=ygULcmV2aWV3IGRzNjA%3D"
     ],
     "url_page": "/product?id_product=2",
-    "url_product_images": "/images/product/ds-70",
+    "url_product_images": "/dolphin-sound/images/product/ds-70",
     "spesification": [
       "Speaker driver : 45mm",
       "Sensitivity : 97±3dB",
@@ -81,7 +81,7 @@
     ],
     "price": 560000,
     "category": "Condensor Microphone",
-    "image": "/images/product/DS-200 MK2.jpg",
+    "image": "/dolphin-sound/images/product/DS-200 MK2.jpg",
     "video_review_link": [
       "https://www.youtube.com/watch?v=T5yJrskpgfA&pp=ygUNcmV2aWV3IGRzIDIwMA%3D%3D",
       "https://www.youtube.com/watch?v=g8bVLA8R-NY&pp=ygUNcmV2aWV3IGRzIDIwMA%3D%3D",
@@ -89,7 +89,7 @@
       "https://www.youtube.com/watch?v=OYoiIxc9ex8&pp=ygUNcmV2aWV3IGRzIDIwMA%3D%3D"
     ],
     "url_page": "/product?id_product=7",
-    "url_product_images": "/images/product/ds-200-mk2",
+    "url_product_images": "/dolphin-sound/images/product/ds-200-mk2",
     "spesification": [
       "Frequency Response : 20 Hz - 20 Khz",
       "Polar Patern : Cardioid",
@@ -116,12 +116,12 @@
     ],
     "price": 570000,
     "category": "Speaker Amplifier",
-    "image": "/images/product/DS-AMP.png",
+    "image": "/dolphin-sound/images/product/DS-AMP.png",
     "video_review_link": [
       "#"
     ],
     "url_page": "/product?id_product=4",
-    "url_product_images": "/images/product/ds-amp",
+    "url_product_images": "/dolphin-sound/images/product/ds-amp",
     "spesification": [
       "Channel : 2 Channel",
       "Power : 2x35w RMS",
@@ -149,13 +149,13 @@
     ],
     "price": 1500000,
     "category": "Speaker",
-    "image": "/images/product/DS-NEMO MK3.png",
+    "image": "/dolphin-sound/images/product/DS-NEMO MK3.png",
     "video_review_link": [
       "https://www.youtube.com/watch?v=cNkoiLESGlQ&pp=ygUSUmV2aWV3IERTIE5FbW8gbWsz",
       "https://www.youtube.com/watch?v=RYJr8nDHzB8&pp=ygUXUmV2aWV3IERvbHBoaW4gTkVNTyBNSzPSBwkJsgkBhyohjO8%3D"
     ],
     "url_page": "/product?id_product=5",
-    "url_product_images": "/images/product/ds-nemo-mk3",
+    "url_product_images": "/dolphin-sound/images/product/ds-nemo-mk3",
     "spesification": [
       "Output Power : 35w X 2 RMS",
       "Freq. Response : 60Hz - 20 Khz",
@@ -180,12 +180,12 @@
     ],
     "price": 1950000,
     "category": "Speaker",
-    "image": "/images/product/DS-5A MK6.jpg",
+    "image": "/dolphin-sound/images/product/DS-5A MK6.jpg",
     "video_review_link": [
       "https://www.youtube.com/watch?v=hJTPEs1X1-c&pp=ygUIZHM1YSBtazY%3D"
     ],
     "url_page": "/product?id_product=6",
-    "url_product_images": "/images/product/ds-5a-mk6",
+    "url_product_images": "/dolphin-sound/images/product/ds-5a-mk6",
     "spesification": [
       "Output Power : RMS 35W Per Channel",
       "Frequency Response : 45Hz - 20 KHz",
@@ -213,12 +213,12 @@
     ],
     "price": 2600000,
     "category": "Speaker",
-    "image": "/images/product/DS-MANTA.png",
+    "image": "/dolphin-sound/images/product/DS-MANTA.png",
     "video_review_link": [
       "#"
     ],
     "url_page": "/product?id_product=7",
-    "url_product_images": "/images/product/ds-manta",
+    "url_product_images": "/dolphin-sound/images/product/ds-manta",
     "spesification": [
       "Enduring Power : 30w-80w",
       "Frequency : 55hz-20khz",
@@ -247,7 +247,7 @@
     ],
     "price": 580000,
     "category": "Audio Interface",
-    "image": "/images/product/DS-ORCA MK2.png",
+    "image": "/dolphin-sound/images/product/DS-ORCA MK2.png",
     "video_review_link": [
       "https://www.youtube.com/watch?v=gsMQyGg0qGs&t=36s",
       "https://www.youtube.com/watch?v=xU5bRLX7UQ0&t=29s",
@@ -256,7 +256,7 @@
       "https://www.youtube.com/watch?v=wS1zldErMIk&t=32s&pp=ygULRFMgT1JDQSBNSzM%3D"
     ],
     "url_page": "/product?id_product=8",
-    "url_product_images": "/images/product/ds-orca-mk2",
+    "url_product_images": "/dolphin-sound/images/product/ds-orca-mk2",
     "spesification": [
       " Mic / Line Input : 2",
       "USB Playback : 1",
@@ -289,12 +289,12 @@
     ],
     "price": 680000,
     "category": "Audio Interface",
-    "image": "/images/product/DS-ORCA MK3.jpg",
+    "image": "/dolphin-sound/images/product/DS-ORCA MK3.jpg",
     "video_review_link": [
       "https://youtu.be/X0P1-GMMoGo"
     ],
     "url_page": "/product?id_product=9",
-    "url_product_images": "/images/product/ds-orca-mk3",
+    "url_product_images": "/dolphin-sound/images/product/ds-orca-mk3",
     "spesification": [
       "Mic / Line Input : 2",
       "USB Playback : 1",
@@ -328,7 +328,7 @@
     ],
     "price": 510000,
     "category": "Headphone",
-    "image": "/images/product/DS-PEARL.png",
+    "image": "/dolphin-sound/images/product/DS-PEARL.png",
     "video_review_link": [
       "https://youtu.be/yib0e-WuKzc",
       "https://youtu.be/sLCk4d9Wt1Q",
@@ -336,7 +336,7 @@
       "https://youtu.be/aFLkexn_LDI"
     ],
     "url_page": "/product?id_product=10",
-    "url_product_images": "/images/product/ds-pearl",
+    "url_product_images": "/dolphin-sound/images/product/ds-pearl",
     "spesification": [
       "Speaker Driver : 50mm",
       "Sensitivity : 97+3dB",
