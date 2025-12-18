@@ -1,0 +1,1 @@
+export const FILTERS = ["All Category", "Headphone", "Speaker", "Speaker Amplifier", "Audio Interface", "Condensor Microphone"];

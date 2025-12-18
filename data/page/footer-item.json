@@ -1,0 +1,38 @@
+{
+    "company": {
+      "logo": "/images/assets/logo.png",
+      "description": "We are here to deliver high-quality audio without the high cost. Our products are designed by audio experts who are committed to innovation, reliability, and accessibility for all creators."
+    },
+    "contact": [
+      { 
+        "icon": "MessageCircle", 
+        "text": "+62 818–0679–3315",
+        "href": "https://wa.me/6281806793315" 
+      },
+      { 
+        "icon": "Mail", 
+        "text": "dolphindawl@gmail.com",
+        "href": "mailto:dolphindawl@gmail.com" 
+      },
+      { 
+        "icon": "Instagram", 
+        "text": "dolphinsound.id",
+        "href": "https://instagram.com/dolphinsound.id"  
+      },
+      { 
+        "icon": "Facebook", 
+        "text": "Dolphin Sound Indonesia", 
+        "href": "https://www.facebook.com/profile.php?id=100064331726292" 
+      },
+      { 
+        "icon": "UsersRoundIcon", 
+        "text": "kmixmasid",
+        "href": "https://www.facebook.com/groups/kmixmasid"  
+      }
+    ],
+    "community": {
+      "logo": "/images/assets/logo.png",
+      "href": "https://www.facebook.com/groups/kmixmasid"
+    }
+  }
+  

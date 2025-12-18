@@ -1,0 +1,7 @@
+[
+  { "label": "HOME", "href": "/home", "children": false },
+  {
+    "label": "PRODUCT", "href": "/product", "children": true
+  },
+  { "label": "ABOUT US", "href": "/about-us", "children": false }
+]

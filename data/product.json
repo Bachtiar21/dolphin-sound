@@ -1,0 +1,357 @@
+[
+  {
+    "id": 1,
+    "badge": "NEW",
+    "name": "DS-60",
+    "what_in_the_box": [
+      "DS-60 Headphone Studio Monitor", 
+      "3.5mm to 6.2mm Adapter"
+    ],
+    "price": 390000,
+    "category": "Headphone",
+    "image": "/images/product/DS-60.jpg",
+    "video_review_link": [
+      "https://www.youtube.com/watch?v=lACYc7d8N3Y&pp=ygULcmV2aWV3IGRzNjA%3D",
+      "https://www.youtube.com/shorts/zFP2B4NwC-w",
+      "https://www.youtube.com/shorts/-_l5bhsrKBs"
+    ],
+    "url_page": "/product?id_product=1",
+    "url_product_images": "/images/product/ds-60",
+    "spesification": [
+      "Speaker driver : 40mm",
+      "Sensitivity : 98±3dB",
+      "Impedance : 32Ω",
+      "Freq. Response : 10Hz-24Khz",
+      "Max. Output Power : 450mW",
+      "RMS Power : 250mW",
+      "Cord Length : 3m"
+    ],
+    "product_features": [
+      "Maximum Isolation",
+      "Longlasting",
+      "Perfect for mixing and mastering",
+      "Closed back design",
+      "Non detachable cables "
+    ]
+  },
+  {
+    "id": 2,
+    "badge": "NEW",
+    "name": "DS-70",
+    "what_in_the_box": [
+      "DS-70 Headphone Studio Monitor", 
+      "3M Cord, 3.5mm to 6.2mm Adapter"
+    ],
+    "price": 530000,
+    "category": "Headphone",
+    "image": "/images/product/DS-70.png",
+    "video_review_link": [
+      "https://youtu.be/KZLy3sCsXGA",
+      "https://www.youtube.com/watch?v=QqLImzx6P5g&pp=ygULcmV2aWV3IGRzNjDSBwkJsgkBhyohjO8%3D",
+      "https://www.youtube.com/watch?v=NOhh5YfdLAw&pp=ygULcmV2aWV3IGRzNjA%3D",
+      "https://www.youtube.com/watch?v=tkIMvmphh64&pp=ygULcmV2aWV3IGRzNjA%3D"
+    ],
+    "url_page": "/product?id_product=2",
+    "url_product_images": "/images/product/ds-70",
+    "spesification": [
+      "Speaker driver : 45mm",
+      "Sensitivity : 97±3dB",
+      "Impedance : 32Ω",
+      "Freq. Response : 10Hz-24Khz",
+      "Max. Output Power : 1500mW",
+      "RMS Power : 450mW",
+      "Cord Length : 3m",
+      "Net. Weight : 0.3 Kgs"
+    ],
+    "product_features": [
+      "Maximum Isolation",
+      "Longlasting",
+      "Perfect for mixing and mastering",
+      "Closed back design",
+      "Detachable cables"
+    ]
+  },
+  {
+    "id": 3,
+    "badge": "NEW",
+    "name": "DS-200 MK2",
+    "what_in_the_box": [
+      "DS-200 MK2 Microphone Cables",
+      "XLR Cable, Shock Proof Mount"
+    ],
+    "price": 560000,
+    "category": "Condensor Microphone",
+    "image": "/images/product/DS-200 MK2.jpg",
+    "video_review_link": [
+      "https://www.youtube.com/watch?v=T5yJrskpgfA&pp=ygUNcmV2aWV3IGRzIDIwMA%3D%3D",
+      "https://www.youtube.com/watch?v=g8bVLA8R-NY&pp=ygUNcmV2aWV3IGRzIDIwMA%3D%3D",
+      "https://www.youtube.com/watch?v=yB8Q-oD4ZWQ&pp=ygUNcmV2aWV3IGRzIDIwMA%3D%3D",
+      "https://www.youtube.com/watch?v=OYoiIxc9ex8&pp=ygUNcmV2aWV3IGRzIDIwMA%3D%3D"
+    ],
+    "url_page": "/product?id_product=7",
+    "url_product_images": "/images/product/ds-200-mk2",
+    "spesification": [
+      "Frequency Response : 20 Hz - 20 Khz",
+      "Polar Patern : Cardioid",
+      "Sensitivity : -34dB",
+      "Impedance : 150Ω",
+      "Max. SPL : 130dB",
+      "Power Requirements : 48v Phantom Power",
+      "Connection : XLR Cables"
+    ],
+    "product_features": [
+      "26mm Diaphgram Condensor Microphone",
+      "Longlasting",
+      "Ready to use, included XLR Cables and Shock Mount",
+      "High Sensitivity, good for instrument or vocal recording"
+    ]
+  },
+  {
+    "id": 4,
+    "badge": "NEW",
+    "name": "DS-AMP",
+    "what_in_the_box": [
+      "DS-AMP", 
+      "Adaptor Cable"
+    ],
+    "price": 570000,
+    "category": "Speaker Amplifier",
+    "image": "/images/product/DS-AMP.png",
+    "video_review_link": [
+      "#"
+    ],
+    "url_page": "/product?id_product=4",
+    "url_product_images": "/images/product/ds-amp",
+    "spesification": [
+      "Channel : 2 Channel",
+      "Power : 2x35w RMS",
+      "Input : RCA TO TRS",
+      "SNR : ≥ 105db",
+      "THD : 0.003%",
+      "Frequency Response : 20Hz-20Khz",
+      "Machine Size : 22x16x4.5 CM",
+      "Weight : 972g"
+    ],
+    "product_features": [
+      "2 Input RCA & TRS",
+      "Low Noise ≥ 105db SNR Rate",
+      "Perfect for amplify your speaker",
+      "Weightless"
+    ]
+  },
+  {
+    "id": 5,
+    "badge": "NEW",
+    "name": "DS-NEMO MK3",
+    "what_in_the_box": [
+      "DS-NEMO MK3 ( 1 Pcs Active & 1Pcs Passive )", 
+      "Dumper Cables"
+    ],
+    "price": 1500000,
+    "category": "Speaker",
+    "image": "/images/product/DS-NEMO MK3.png",
+    "video_review_link": [
+      "https://www.youtube.com/watch?v=cNkoiLESGlQ&pp=ygUSUmV2aWV3IERTIE5FbW8gbWsz",
+      "https://www.youtube.com/watch?v=RYJr8nDHzB8&pp=ygUXUmV2aWV3IERvbHBoaW4gTkVNTyBNSzPSBwkJsgkBhyohjO8%3D"
+    ],
+    "url_page": "/product?id_product=5",
+    "url_product_images": "/images/product/ds-nemo-mk3",
+    "spesification": [
+      "Output Power : 35w X 2 RMS",
+      "Freq. Response : 60Hz - 20 Khz",
+      "Driver Unit : 4 Inch Woofer + 1 Inch tweeter",
+      "Input : TRS (Balanced) & RCA (Unbalance)",
+      "Power Supply : AC 100-240v / 50Hz-60Hz",
+      "Speaker Size : 20 x 15 x 24 cm"
+    ],
+    "product_features": [
+      "Perfect performance for mixing and mastering",
+      "Ideal for daily use",
+      "Compact size"
+    ]
+  },
+  {
+    "id": 6,
+    "badge": "NEW",
+    "name": "DS5A MK6",
+    "what_in_the_box": [
+      "DS5A MK6 (1 Pcs Active & 1Pcs Passive)", 
+      "Dumper Cables"
+    ],
+    "price": 1950000,
+    "category": "Speaker",
+    "image": "/images/product/DS-5A MK6.jpg",
+    "video_review_link": [
+      "https://www.youtube.com/watch?v=hJTPEs1X1-c&pp=ygUIZHM1YSBtazY%3D"
+    ],
+    "url_page": "/product?id_product=6",
+    "url_product_images": "/images/product/ds-5a-mk6",
+    "spesification": [
+      "Output Power : RMS 35W Per Channel",
+      "Frequency Response : 45Hz - 20 KHz",
+      "Driver Unit : (5.25\" Mid Woofer + Tweeter)",
+      "S/N Ratio : 2.90 dB",
+      "Input : TRS (Balanced) - RCA (Unbalanced)",
+      "Power Supply Voltage : 100-240V / 50-60Hz",
+      "Cabinet Size : 24.5 x 17 x 26.5 cm"
+    ],
+    "product_features": [
+      "Flat and detailed frequency response",
+      "Strong and controlled bass",
+      "Clear mids and highs",
+      "Sound character suitable for various genres",
+      "Stable performance"
+    ]
+  },  
+  {
+    "id": 7,
+    "badge": "PAST",
+    "name": "DS-MANTA",
+    "what_in_the_box": [
+      "DS-MANTA",
+      "Conector Cables"
+    ],
+    "price": 2600000,
+    "category": "Speaker",
+    "image": "/images/product/DS-MANTA.png",
+    "video_review_link": [
+      "#"
+    ],
+    "url_page": "/product?id_product=7",
+    "url_product_images": "/images/product/ds-manta",
+    "spesification": [
+      "Enduring Power : 30w-80w",
+      "Frequency : 55hz-20khz",
+      "Speaker Configuration : 5.25'' + 1.5''",
+      "Speaker Impedance : 6Ω",
+      "Sensitivity : 89dB",
+      "Crossover : 3.2KHZ"
+    ],
+    "product_features": [
+      "Concentric Speaker",
+      "Passive Speakers",
+      "Multifunction Speaker",
+      "Flagship quality",
+      "2 Way speakers",
+      "Holograpcic Imaging"
+    ]
+  },
+  {
+    "id": 8,
+    "badge": "PAST",
+    "name": "DS-ORCA MK2",
+    "what_in_the_box": [
+      "DS-ORCA MK2",
+      "2 pcs type b to type a cables", 
+      "Manual Book."
+    ],
+    "price": 580000,
+    "category": "Audio Interface",
+    "image": "/images/product/DS-ORCA MK2.png",
+    "video_review_link": [
+      "https://www.youtube.com/watch?v=gsMQyGg0qGs&t=36s",
+      "https://www.youtube.com/watch?v=xU5bRLX7UQ0&t=29s",
+      "https://youtu.be/o_7cqxV6_r4",
+      "https://youtu.be/l1JGHyYBJ-Y",
+      "https://www.youtube.com/watch?v=wS1zldErMIk&t=32s&pp=ygULRFMgT1JDQSBNSzM%3D"
+    ],
+    "url_page": "/product?id_product=8",
+    "url_product_images": "/images/product/ds-orca-mk2",
+    "spesification": [
+      " Mic / Line Input : 2",
+      "USB Playback : 1",
+      "Output : L+R",
+      "Headphone Output : 2",
+      "Input Mic Gain : Max 56dB",
+      "Phantom Power : +48V",
+      "USB Audio : Stereo Input / Output",
+      "USB : 2.0",
+      "Sampling Frequency : 24 bit / 192KHz",
+      "Frequency Response : 20-20.000Hz, ±0.5dB",
+     " Resolution Support : 24 bit / 192 KHz High Resolution Support",
+      "Direct Monitoring : Bisa Off"
+    ],
+    "product_features": [
+      "24 bit/192khz",
+      "2 Channel Interface",
+      "Build in 48v phantom power",
+      "Portable design"
+    ]
+  },
+  {
+    "id": 9,
+    "badge": "PAST",
+    "name": "DS-ORCA MK3",
+    "what_in_the_box": [
+      "DS-ORCA MK3",
+      "2 pcs type b to type c cables", 
+      "Manual Book"
+    ],
+    "price": 680000,
+    "category": "Audio Interface",
+    "image": "/images/product/DS-ORCA MK3.jpg",
+    "video_review_link": [
+      "https://youtu.be/X0P1-GMMoGo"
+    ],
+    "url_page": "/product?id_product=9",
+    "url_product_images": "/images/product/ds-orca-mk3",
+    "spesification": [
+      "Mic / Line Input : 2",
+      "USB Playback : 1",
+      "Output : L+R",
+      "Headphone Output : 2",
+      "Input Mic Gain : Max 56dB",
+      "Phantom Power : +48V",
+      "Indicator : 2 Led Meter",
+      "Sampling Frequency : 24 bit / 192KHz",
+      "Connector Type : Combo Jack",
+      "Level Meter : 2x2 Point Led Meter",
+      "Max Output Level : 3 Vrms"
+    ],
+    "product_features": [
+      "24 bit/192khz",
+      "USB-C Conectivity",
+      "2 Channel Interface",
+      "Build in 48v phantom power",
+      "Portable design"
+    ]
+  },
+  {
+    "id": 10,
+    "badge": "PAST",
+    "name": "DS-PEARL",
+    "what_in_the_box": [
+      "DS-Pearl",
+      "3m, 3.5mm", 
+      "6.35 Adapter", 
+      "Shock Proof Mount"
+    ],
+    "price": 510000,
+    "category": "Headphone",
+    "image": "/images/product/DS-PEARL.png",
+    "video_review_link": [
+      "https://youtu.be/yib0e-WuKzc",
+      "https://youtu.be/sLCk4d9Wt1Q",
+      "https://www.youtube.com/watch?v=QPcHSBw96bM&pp=ygUPcmV2aWV3IGRzIHBlYXJs",
+      "https://youtu.be/aFLkexn_LDI"
+    ],
+    "url_page": "/product?id_product=10",
+    "url_product_images": "/images/product/ds-pearl",
+    "spesification": [
+      "Speaker Driver : 50mm",
+      "Sensitivity : 97+3dB",
+      "Impedance : 32Ohm",
+      "Frequency Response : 18KHz - 45 KHz",
+      "Max Output Power : 1500mW",
+      "RMS Power : 350mW",
+      "Cord Length : 3m, 3.5mm with 6.35 Adapter"
+    ],
+    "product_features": [
+      "50mm driver",
+      "18hz - 35khz Frequency Response",
+      "Good Isolation",
+      "Detachable Cable",
+      "Longlasting"
+    ]
+  }
+]
